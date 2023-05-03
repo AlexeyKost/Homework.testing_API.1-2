@@ -12,7 +12,7 @@
     ],
     "additionalProperties": false, // дополнительных полей быть не должно 
     "properties": { // описание полей: https://json-schema.org/understanding-json-schema/reference/object.html#properties
-      "id": { 12452,4
+      "id": {
         "type": "integer" // целое число: https://json-schema.org/understanding-json-schema/reference/numeric.html#integer
       },
       "name": {
